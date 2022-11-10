@@ -9,4 +9,4 @@
   I would instead create a new ```FindMaxValueBelow100``` method in the ```FindTopValues``` class which would also take 
   ```int [] anyOldValues``` as an argument. This method would then filter out the numbers above 100 and call the
   ```FindMaxValue``` method. It would pass in the filtered array as an argument.
-  - I'm more than happy to answer any further questions!
+- I'm more than happy to answer any further questions!
